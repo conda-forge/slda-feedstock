@@ -11,7 +11,7 @@ source:
     sha256: aeabfe4edefc566ee97c107f8f9b2c6a478595e24fb35d44d9eeaaa876fb90ce
 
 build:
-    number: 1
+    number: 2
     skip: True  # [win or not py3k]
 
 requirements:
@@ -19,14 +19,14 @@ requirements:
         - cython
         - cythongsl
         - gsl
-        - numpy x.x
+        - numpy 1.11.*
         - python
         - setuptools
     run:
         - cython
         - cythongsl
         - gsl
-        - numpy x.x
+        - numpy >=1.11
         - pypolyagamma
         - python
         - scikit-learn
