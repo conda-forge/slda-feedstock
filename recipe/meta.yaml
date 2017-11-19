@@ -22,7 +22,6 @@ requirements:
         - numpy 1.11.*
         - python
         - setuptools
-
     run:
         - cython
         - cythongsl
