@@ -46,6 +46,6 @@ about:
       Cython implementations of Gibbs sampling for latent
       Dirichlet allocation and its supervised variants
       
-extras:
-    maintainers:
-      - Savvysherpa
+extra:
+    recipe-maintainers:
+        - savvysherpa
