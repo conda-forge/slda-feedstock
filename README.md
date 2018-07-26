@@ -15,14 +15,16 @@ Summary: Cython implementations of Gibbs sampling for latent Dirichlet allocatio
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/slda-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/slda-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/slda-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/slda-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/slda-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/slda-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/slda-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/slda-feedstock)
+![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/slda/badges/version.svg)](https://anaconda.org/conda-forge/slda)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/slda/badges/downloads.svg)](https://anaconda.org/conda-forge/slda)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-slda-green.svg)](https://anaconda.org/conda-forge/slda) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/slda.svg)](https://anaconda.org/conda-forge/slda) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/slda.svg)](https://anaconda.org/conda-forge/slda) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/slda.svg)](https://anaconda.org/conda-forge/slda) |
 
 Installing slda
 ===============
